@@ -1,0 +1,12 @@
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\bin\Debug\net7.0\ModelsQuery.deps.json
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\bin\Debug\net7.0\ModelsQuery.dll
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\bin\Debug\net7.0\ModelsQuery.pdb
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Debug\net7.0\ModelsQuery.csproj.AssemblyReference.cache
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Debug\net7.0\ModelsQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Debug\net7.0\ModelsQuery.AssemblyInfoInputs.cache
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Debug\net7.0\ModelsQuery.AssemblyInfo.cs
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Debug\net7.0\ModelsQuery.csproj.CoreCompileInputs.cache
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Debug\net7.0\ModelsQuery.dll
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Debug\net7.0\refint\ModelsQuery.dll
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Debug\net7.0\ModelsQuery.pdb
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Debug\net7.0\ref\ModelsQuery.dll

@@ -1,0 +1,12 @@
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\bin\Release\net7.0\P360.RSA.ModelsQuery.deps.json
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\bin\Release\net7.0\P360.RSA.ModelsQuery.dll
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\bin\Release\net7.0\P360.RSA.ModelsQuery.pdb
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Release\net7.0\P360.RSA.ModelsQuery.csproj.AssemblyReference.cache
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Release\net7.0\P360.RSA.ModelsQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Release\net7.0\P360.RSA.ModelsQuery.AssemblyInfoInputs.cache
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Release\net7.0\P360.RSA.ModelsQuery.AssemblyInfo.cs
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Release\net7.0\P360.RSA.ModelsQuery.csproj.CoreCompileInputs.cache
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Release\net7.0\P360.RSA.ModelsQuery.dll
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Release\net7.0\refint\P360.RSA.ModelsQuery.dll
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Release\net7.0\P360.RSA.ModelsQuery.pdb
+C:\Users\maue11807\source\repos\MyProjet\Models_Query\obj\Release\net7.0\ref\P360.RSA.ModelsQuery.dll

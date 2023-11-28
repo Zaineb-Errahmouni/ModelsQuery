@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Models.Query</id>
+    <version>1.1.0</version>
+    <title>Models</title>
+    <authors>ZAINEB ERRAHMOUNI</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/Zaineb-Errahmouni/ModelsQuery/tree/main</projectUrl>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright @ 2023</copyright>
+    <tags>C# Asp.net Web API Core </tags>
+  </metadata>
+</package>
